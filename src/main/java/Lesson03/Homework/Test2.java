@@ -1,8 +1,7 @@
 package Lesson03.Homework;
 
-public class Test {
+public class Test2 {
     public static void main(String[] args) {
-int a = 1;
-        System.out.println("hi");
+        System.out.println("test");
     }
 }
