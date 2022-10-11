@@ -1,6 +1,6 @@
 package JavaCore2.Lesson01.HomeWork;
 
-public class Animal {
+public abstract class Animal {
     public int jumpHeight;
     public int swimLength;
 

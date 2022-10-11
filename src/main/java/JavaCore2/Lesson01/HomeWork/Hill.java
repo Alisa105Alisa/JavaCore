@@ -1,13 +1,13 @@
-package HomeWork01;
+package JavaCore2.Lesson01.HomeWork;
 
-public class Fence implements Course{
+public class Hill implements Course {
     private int height;
 
-    public Fence (int height) {
+    public Hill(int height) {
         this.height = height;
     }
-
     public void overcome (Team team){
         team.jump(height);
     }
+
 }
